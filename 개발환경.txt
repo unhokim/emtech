@@ -1,0 +1,5 @@
+﻿개발자->gerrit->
+jeskins(build & return result) build가 되면 1점
+receiver 가 평가해서 2점이상을 받으면 git에 submit이 가능
+
+submit 후에 jenkins가 버전정보를 FTP 서버에 release 함( 전체 공유)
